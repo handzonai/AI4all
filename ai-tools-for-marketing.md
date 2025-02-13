@@ -1,4 +1,4 @@
-# Top AI Tools for Marketing
+# Leading AI Tools for Marketing
 
 # 1. ChatGPT for Research & Writing
 
