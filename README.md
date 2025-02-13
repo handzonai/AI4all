@@ -20,15 +20,3 @@ We’ve compiled examples of AI tools across various sectors to show how technol
 
 - **Technology**  
   *Examples: Data Scientist, Software Developer*
-
-## Navigation
-
-- **Home:** Your starting point to explore the directory.
-- **Industries:** Browse resources by sectors like Agriculture, Construction, Creative Arts, and more.
-- **Trends:** Stay updated with the latest in AI.
-- **Tools:** Discover specialized AI tools.
-- **Recent:** Check out the newest additions.
-- **Ask AI:** Get answers to your AI-related questions.
-- **Submit Resource:** Contribute by adding your own AI resource.
-
-Explore, learn, and contribute to a growing community of AI enthusiasts and professionals!
