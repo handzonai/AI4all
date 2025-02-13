@@ -1,4 +1,4 @@
-## Tools for Teachers & Students
+## Leading AI Tools for Teachers & Students
 
 - **[Grammarly](https://www.grammarly.com)**  
 	  Enhances writing by providing real-time grammar and style suggestions to help both teachers and students produce polished work.
